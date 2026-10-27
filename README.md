@@ -65,119 +65,119 @@ The table below catalogs premier SaaS work operating systems, ordered in **desce
 
 ## 🔓 Top Open-Source GitHub Projects
 
-Below are the most prominent open-source project management and collaborative work platforms on GitHub, **sorted in descending order by star count**. Each entry includes an official live social star badge linking directly to the project's stargazers.
+Below are the most prominent open-source project management and collaborative work platforms on GitHub, **sorted in descending order by Stars_Count**. Each entry includes an official live social Stars_Badge linking directly to the project's stargazers.
 
-### 1. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+### 1. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - **Primary Stack**: Flutter, Rust, SQLite
 - **License**: AGPL-3.0
 - **Overview**: The leading open-source Notion alternative. AppFlowy brings projects, wikis, and team knowledge bases together with native offline support, end-to-end data encryption, and local-first data storage without vendor lock-in.
 
-### 2. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+### 2. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 - **Primary Stack**: TypeScript, Rust, React, Node.js
 - **License**: MIT
 - **Overview**: Next-generation open-source workspace merging docs, whiteboards, and database tables into an infinite canvas. Seamlessly transitions between structured document writing and freeform visual brainstorming.
 
-### 3. [NocoDB](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+### 3. [NocoDB](https://github.com/nocodb/nocodb) [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 - **Primary Stack**: TypeScript, Vue.js, Node.js, SQL (PostgreSQL, MySQL, SQLite)
 - **License**: AGPL-3.0
 - **Overview**: The open-source smart spreadsheet and Airtable alternative. Connects directly to any relational database to transform raw tables into collaborative grids, Kanban boards, galleries, and calendar views with REST APIs.
 
-### 4. [Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+### 4. [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
 - **Primary Stack**: Python (Django), TypeScript, Next.js, PostgreSQL, Redis, MinIO
 - **License**: AGPL-3.0
 - **Overview**: Modern, extensible open-source project management software positioned as a sovereign Jira, Linear, and ClickUp alternative. Features work issues, Cycles (sprint cadences), Modules, Pages (docs), and 5 layout views.
 
-### 5. [Trilium Notes](https://github.com/TriliumNext/Notes) [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Notes?style=social&color=white)](https://github.com/TriliumNext/Notes/stargazers)
+### 5. [Trilium Notes](https://github.com/TriliumNext/Notes) [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Notes?style=social&color=white)](https://github.com/TriliumNext/Notes/stargazers)
 - **Primary Stack**: JavaScript, Node.js, SQLite, CodeMirror
 - **License**: AGPL-3.0
 - **Overview**: Hierarchical personal knowledge base and structured task management system designed for building large, deeply nested knowledge trees, personal workflows, and encrypted project notes.
 
-### 6. [Huly Platform](https://github.com/hcengineering/platform) [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)
+### 6. [Huly Platform](https://github.com/hcengineering/platform) [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)
 - **Primary Stack**: TypeScript, React, Node.js, Elastic, MongoDB
 - **License**: AGPL-3.0
 - **Overview**: An all-in-one open-source project management and collaborative workspace alternative to Linear, Jira, Slack, and Notion. Offers ultra-fast issue tracking, virtual office communication, and project roadmaps.
 
-### 7. [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
+### 7. [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
 - **Primary Stack**: Go, TypeScript, React, PostgreSQL/SQLite
 - **License**: AGPL-3.0 / Apache-2.0
 - **Overview**: Open-source, multilingual, self-hosted alternative to Trello, Notion, and Asana developed by the Mattermost community. Provides card-based task boards, table views, and custom schema attributes for dev teams.
 
-### 8. [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)
+### 8. [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub_Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)
 - **Primary Stack**: TypeScript, Angular, Electron
 - **License**: MIT
 - **Overview**: Advanced open-source to-do list, time-tracker, and sprint planner tailored for software engineers. Ships with bidirectional integrations for GitHub Issues, GitLab, Jira, and OpenProject.
 
-### 9. [Docmost](https://github.com/docmost/docmost) [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
+### 9. [Docmost](https://github.com/docmost/docmost) [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
 - **Primary Stack**: TypeScript, NestJS, React, PostgreSQL, Redis
 - **License**: AGPL-3.0
 - **Overview**: Open-source collaborative wiki and technical documentation management software. Serves as a modern self-hosted alternative to Confluence and Notion with real-time multi-user editing.
 
-### 10. [Wekan](https://github.com/wekan/wekan) [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+### 10. [Wekan](https://github.com/wekan/wekan) [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
 - **Primary Stack**: Meteor, JavaScript, MongoDB
 - **License**: MIT
 - **Overview**: Fully featured FLOSS Kanban board platform with zero telemetry. Delivers real-time card collaboration, swimlanes, subtasks, user permissions, and one-click import from Trello and CSV files.
 
-### 11. [OpenProject](https://github.com/opf/openproject) [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+### 11. [OpenProject](https://github.com/opf/openproject) [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
 - **Primary Stack**: Ruby on Rails, Angular, PostgreSQL
 - **License**: GPL-3.0
 - **Overview**: Enterprise-grade open-source project management suite. Supports classical waterfall Gantt planning, Agile Scrum/Kanban boards, multi-project portfolio visibility, time logging, and cost reporting.
 
-### 12. [Habitica](https://github.com/HabitRPG/habitica) [![GitHub stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)
+### 12. [Habitica](https://github.com/HabitRPG/habitica) [![GitHub_Stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)
 - **Primary Stack**: JavaScript, Vue.js, Node.js, Express, MongoDB
 - **License**: GPL-3.0
 - **Overview**: Gamified task management and habit tracker that treats real-world projects and everyday goals like a Role Playing Game (RPG) complete with rewards, boss battles, quests, and party collaborations.
 
-### 13. [Planka](https://github.com/plankanban/planka) [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+### 13. [Planka](https://github.com/plankanban/planka) [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
 - **Primary Stack**: JavaScript, React, Redux, Node.js, PostgreSQL
 - **License**: AGPL-3.0
 - **Overview**: Elegant, responsive open-source Kanban tracking tool designed for small teams and enterprises. Supports project boards, member assignments, card attachments, Markdown cards, and notifications.
 
-### 14. [Leantime](https://github.com/Leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
+### 14. [Leantime](https://github.com/Leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
 - **Primary Stack**: PHP, JavaScript, MySQL
 - **License**: AGPL-3.0
 - **Overview**: Strategic project management system designed for non-project managers, built with neurodivergence (ADHD, autism, dyslexia) in mind. Combines design thinking, lean canvas, and Agile sprint roadmaps.
 
-### 15. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+### 15. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
 - **Primary Stack**: PHP (Laravel), Flutter, MySQL
 - **License**: AGPL-3.0
 - **Overview**: Source-available business execution, invoicing, project tracking, and time management application. Bridges task management with customer invoicing, expense logging, and payment gateways.
 
-### 16. [Kanboard](https://github.com/kanboard/kanboard) [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
+### 16. [Kanboard](https://github.com/kanboard/kanboard) [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
 - **Primary Stack**: PHP, SQLite / PostgreSQL / MySQL
 - **License**: MIT
 - **Overview**: Minimalist visual task board focusing strictly on simplicity and speed. Features swimlanes, Work-in-Progress (WIP) limits, task automation rules, and zero complex runtime dependencies.
 
-### 17. [Kaneo](https://github.com/usekaneo/kaneo) [![GitHub stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=social&color=white)](https://github.com/usekaneo/kaneo/stargazers)
+### 17. [Kaneo](https://github.com/usekaneo/kaneo) [![GitHub_Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=social&color=white)](https://github.com/usekaneo/kaneo/stargazers)
 - **Primary Stack**: TypeScript, Node.js, Docker
 - **License**: AGPL-3.0
 - **Overview**: Pragmatic project management that prevents the management tool from becoming the project itself. Features streamlined boards, Gantt charts, issue roadmaps, and seamless GitHub integration.
 
-### 18. [Ever Gauzy](https://github.com/ever-co/ever-gauzy) [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
+### 18. [Ever Gauzy](https://github.com/ever-co/ever-gauzy) [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
 - **Primary Stack**: TypeScript, NestJS, Angular, TypeORM, PostgreSQL
 - **License**: AGPL-3.0
 - **Overview**: Open enterprise management platform uniting Project Management, CRM, HRM, and Time Tracking. Designed for remote teams, consultancies, and digital agencies requiring integrated resource accounting.
 
-### 19. [Redmine](https://github.com/redmine/redmine) [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+### 19. [Redmine](https://github.com/redmine/redmine) [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
 - **Primary Stack**: Ruby on Rails, MySQL / PostgreSQL
 - **License**: GPL-2.0
 - **Overview**: The battle-tested, classic open-source project management and issue tracking system. Offers cross-project Gantt schedules, calendar overviews, wikis, forums, and granular role-based access control (RBAC).
 
-### 20. [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+### 20. [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
 - **Primary Stack**: Go, TypeScript, Vue.js, SQLite / PostgreSQL / MySQL
 - **License**: AGPL-3.0
 - **Overview**: The to-do and project manager you actually own. Features flexible task lists, Kanban columns, Gantt timelines, Table views, repeating tasks, subtask hierarchies, and quick Docker deployment.
 
-### 21. [Kan](https://github.com/kanbn/kan) [![GitHub stars](https://img.shields.io/github/stars/kanbn/kan?style=social&color=white)](https://github.com/kanbn/kan/stargazers)
+### 21. [Kan](https://github.com/kanbn/kan) [![GitHub_Stars](https://img.shields.io/github/stars/kanbn/kan?style=social&color=white)](https://github.com/kanbn/kan/stargazers)
 - **Primary Stack**: TypeScript, Node.js, PostgreSQL, Docker
 - **License**: MIT
 - **Overview**: Lightweight Trello-inspired Kanban application featuring workspace visibility controls, custom labels, card comments, activity audit logs, and direct Trello board import capabilities.
 
-### 22. [Taiga](https://github.com/taigaio/taiga-back) [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social&color=white)](https://github.com/taigaio/taiga-back/stargazers)
+### 22. [Taiga](https://github.com/taigaio/taiga-back) [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social&color=white)](https://github.com/taigaio/taiga-back/stargazers)
 - **Primary Stack**: Python (Django), AngularJS / Next, PostgreSQL
 - **License**: MPL-2.0
 - **Overview**: Acclaimed open-source Agile project management platform for software designers and cross-functional teams. Specializes in Scrum sprints with burndown metrics and customizable Kanban workflows.
 
-### 23. [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
+### 23. [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub_Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
 - **Primary Stack**: Java, ZK Framework, PostgreSQL
 - **License**: AGPL-3.0
 - **Overview**: Open-source web-based enterprise planning application built for resource allocation, capacity management, Gantt scheduling, and cross-project portfolio governance in sovereign cloud environments.
@@ -207,7 +207,7 @@ Contributions are warmly encouraged! To propose a new SaaS platform, add an open
    ```
 3. **Update `README.md`**:
    - For SaaS tools: Insert into the SaaS table in descending valuation order with verified pricing, company size, and specific free trial terms.
-   - For Open-Source tools: Append into the open-source list sorted in descending star order, including the official live star badge link `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
+   - For Open-Source tools: Append into the open-source list sorted in descending star order, including the official live Stars_Badge link `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
 4. **Adhere to Code of Conduct**: Maintain factual, vendor-neutral descriptions without promotional hyperbole.
 5. **Submit a Pull Request**: Provide a clear explanation and links to official documentation or source repos.
 
